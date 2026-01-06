@@ -1,0 +1,1 @@
+Hosted at http://workout.kolbyml.com this is a PWA (Progressive Web App) that allows users to create, track, and manage their workouts. Built with modern web technologies, it offers a seamless experience across devices. Focused on calisthenics and bodyweight exercises.
